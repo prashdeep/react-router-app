@@ -1,0 +1,4 @@
+Steps 
+1. npm install react-router-dom 
+2. import BrowserRouter, Route from 'react-router-dom';
+3. configure Route with render method
